@@ -1,0 +1,1 @@
+# qt-widgets-template
